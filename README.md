@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **projects involving C/C++**
+- 👯 I’m looking to collaborate on **projects involving HTML/CSS**
 
 - 📫 How to reach me **saimch726@gmail.com**
 
